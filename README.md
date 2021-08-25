@@ -13,7 +13,7 @@ Using Django REST frame work please implement the followings
 
 5- CRUD API for Stars http://127.0.0.1:8000/api/stars no one should be able to use this crud for rating !!
 
-6- Rate API http://127.0.0.1:8000/api/products/product_pk/rate_product create and update API
+6- Rate API http://127.0.0.1:8000/api/products/product_pk/rate_product create and update rating API from Product Model 
 
 7- Token authentication
 
